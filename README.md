@@ -8,10 +8,12 @@ The program has three methods. The first one simply calculates the text shift fr
 The other two can be used separately. Below is some sample output of the text before and after it was encrypted.
 
 ### Original Text:
-"Hello, this is a simple text"
+
+    Hello, this is a simple text
+
 
 ### Encrypted Text:
-"Pm tt w4 (| pq {( q{ (i ({ iu xt m( |m |"
+    Pm tt w4 (| pq {( q{ (i ({ iu xt m( |m |
 
 ## Contributions:
 Contributions of code upgrade, new ideas, and any comments are welcome (constructively).
